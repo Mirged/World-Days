@@ -3,4 +3,4 @@ Starting a project to create a sandbox game like Dwarf Fortress, C:DDA, Rimworld
 
 Full open source.
 
-Release in 2023.
+First alpha in 2023.
